@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import TeleprompterPreview from './TeleprompterPreview';
 import type { PreviewHandle } from './TeleprompterPreview';
 import {LinkIcon} from '@heroicons/react/24/outline'
